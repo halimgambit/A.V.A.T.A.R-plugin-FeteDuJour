@@ -1,0 +1,12 @@
+{
+	"modules": { 
+		"FeteDuJour": {
+			"version": "1.0",
+			"name": "FeteDuJour",
+			"rules": {
+				"feteJour": ["name", "party"]
+			}
+		}
+	}
+}
+			
