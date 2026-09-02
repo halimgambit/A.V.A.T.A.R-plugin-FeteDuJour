@@ -1,9 +1,0 @@
-{
-  "speech": {
-  "name": "Aujourd'hui, nous fêtons le prénom: $$"
-  },
-  "error": {
-  "errorHttp": "Erreur HTTP $$",
-  "errorAccess": "Je n'arrive pas à récupérer les données."
-  }
-}

@@ -1,9 +1,0 @@
-{
-  speech: {
-  "name": "Today, we celebrate the first name: $$"
-  },
-  "error": {
-  "errorHttp": "HTTP error $$",
-  "errorAccess": "I can’t get the data back."
-  }
-}
