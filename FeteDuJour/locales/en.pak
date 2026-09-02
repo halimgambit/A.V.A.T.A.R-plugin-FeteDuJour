@@ -1,6 +1,6 @@
 {
   speech: {
-  "name": "Today, we celebrate the first name: $$"
+  "name": "Today, we celebrate the: $$"
   },
   "error": {
   "errorHttp": "HTTP error $$",
