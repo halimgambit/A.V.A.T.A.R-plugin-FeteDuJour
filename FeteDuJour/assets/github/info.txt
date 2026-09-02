@@ -1,7 +1,13 @@
-Le classement de la ligue 1
+🎉 Fête du Jour
 
-Football Ligue 1 est l'un des plugins incontournables pour votre majordome vocal A.V.A.T.A.R.
+Le plugin Fête du Jour permet à A.V.A.T.A.R de connaître et d'annoncer automatiquement la fête du jour.
 
-Interrogez simplement A.V.A.T.A.R. à la voix pour connaître les dernières informations du championnat de Ligue 1. Le plugin est capable de vous annoncer le classement des six premières équipes ainsi que les résultats et le calendrier des rencontres les plus récentes.
+Il utilise les données de Fetedujour.fr pour récupérer le prénom ou les prénoms célébrés chaque jour.
 
-Grâce à une restitution vocale claire et naturelle, restez informé de l'actualité du championnat sans quitter votre canapé.
+Exemples de commandes :
+
+« Quelle est la fête aujourd'hui ? »
+« Qui fête-t-on aujourd'hui ? »
+« C'est la fête de qui ? »
+
+A.V.A.T.A.R peut alors répondre vocalement avec la fête du jour.
