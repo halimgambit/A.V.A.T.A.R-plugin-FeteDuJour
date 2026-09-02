@@ -1,6 +1,6 @@
 {
   "speech": {
-  "name": "Aujourd'hui, nous fêtons le prénom les: $$"
+  "name": "Aujourd'hui, nous fêtons les: $$"
   },
   "error": {
   "errorHttp": "Erreur HTTP $$",
